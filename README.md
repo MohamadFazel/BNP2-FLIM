@@ -1,5 +1,5 @@
 # BNP2-FLIM
-Bayesian nonparametric analysis of fluorescence lifetime imaging (BNP-FLIM) is a wide-filed FLIM data analysis software package developed based on the framework described in “Building Fluorescence Lifetime Maps Photon-by-photon by Leveraging Spatial Correlations” by Mohamadreza Fazel, Sina Jazani, Lorenzo Scipioni, Alexander Vallmitjana, Songning Zhu, Enrico Gratton, Michelle A. Digman and Steve Presse; BioRxiv. 
+Bayesian nonparametric analysis of fluorescence lifetime imaging (BNP-FLIM) is a wide-filed FLIM data analysis software package developed based on the framework described in “Building Fluorescence Lifetime Maps Photon-by-photon by Leveraging Spatial Correlations” by Mohamadreza Fazel, Sina Jazani, Lorenzo Scipioni, Alexander Vallmitjana, Songning Zhu, Enrico Gratton, Michelle A. Digman and Steve Presse; ACS Photonics 2023. 
 
 BNP-FLIM is capable of deducing the number of lifetime components present within an input FLIM data and learn the corresponding lifetimes maps with resolutions better than the pixel size leveraging spatial correlations, over a wide range of lifetimes and lifetimes with small differences. Moreover, BNP-FLIM takes full advantages of all the available data using direct photon arrival times and empty pulses. 
 
